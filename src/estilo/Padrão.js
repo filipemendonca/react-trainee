@@ -10,5 +10,14 @@ export default StyleSheet.create({
         fontSize: 24,
         textAlign: "center",
         fontWeight: 'bold'
+    },
+    input:{
+        height: 70,
+        fontSize: 40,
+        borderColor: 'gray',
+        borderWidth: 1
+    },
+    font40:{
+        fontSize: 40
     }
 });
